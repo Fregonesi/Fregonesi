@@ -13,3 +13,6 @@ Tecnologias que eu mais utilizo
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fregonesi)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<hr>
+Abaixo estão meus repositórios com meus 3 principais projetos! 👇
