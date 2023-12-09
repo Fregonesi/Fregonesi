@@ -1,6 +1,6 @@
 # Olá, mundo! 🌎
 
-Me chamo Lucas Fregonesi 🧙‍♂️, e sou um entusiasta da tecnologia.
+Me chamo Lucas Fregonesi 🧙‍♂️, e sou um entusiasta de tecnologia.
 
 - 💼 Trabalhando como Desenvolvedor Frontend.
 - 🌱 Sempre aprendendo e evoluindo.
