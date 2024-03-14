@@ -22,6 +22,6 @@ Me chamo Lucas Fregonesi e sou um entusiasta de tecnologia.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fregonesi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Principais Projetos:
+Espero que tenham gostado!
 
-Abaixo estão meus repositórios com meus 3 principais projetos! 👇
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
