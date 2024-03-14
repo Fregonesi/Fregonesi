@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=15F7D6&center=true&random=false&width=434&lines=Ol%C3%A1!+Me+chamo+Lucas+Fregonesi;Sou+um+desenvolvedor+front-end;e+estudo+an%C3%A1lise+e+desenvolvimento+de+sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=15F7D6&random=false&width=800&lines=Ol%C3%A1!+Me+chamo+Lucas+Fregonesi.;Sou+um+desenvolvedor+front-end.;Estudo+an%C3%A1lise+e+desenvolvimento+de+sistemas.)](https://git.io/typing-svg)
 
 ##
 Welcome To My Profile! :)
